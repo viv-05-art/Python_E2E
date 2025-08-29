@@ -1,7 +1,9 @@
 
 # Python Assignment
 
-Question:Printing prime number
+Question:1
+
+Printing prime number
 
 n = 11
 
@@ -66,7 +68,7 @@ for n in range(1,101):
 97
 
 
-# Question: 1
+# Question: 2
 
 # a = [[1,2], [3,[4,5]],[6]]
 
